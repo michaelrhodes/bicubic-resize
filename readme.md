@@ -2,7 +2,7 @@
 
 ## install
 ```sh
-npm install michaelrhodes/bicubic-resize
+npm install michaelrhodes/bicubic-resize#1.0.0
 ```
 
 ## use
